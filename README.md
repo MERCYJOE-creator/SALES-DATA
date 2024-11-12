@@ -2,6 +2,21 @@
 
 ## Project Title: Sales Performance Analysis for A Retail Store.
 
+[Project Overview](#project_overview)
+
+[Data Source](#data_source)
+
+[Tools Used](#tools_used)
+
+[Data Cleaning and Preparation](#data_cleaning_and_preparation)
+
+[Exploratory Data Analysis](#exploratory_data_analysis)
+
+[Data Analysis](#data_analysis)
+
+[DATA VISUALIZATION](#data_visualization)
+
+
 ## Project Overview
 This project aims to analyze sales data for retail store to identify trends, patterns, and areas for improvement.
 The analysis will provide insights into sales performance, customer behavior, and product preferences, enabling data-driven decisions to drive business growth.
