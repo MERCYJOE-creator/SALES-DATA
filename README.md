@@ -14,7 +14,7 @@
 
 [Data Analysis](#data_analysis)
 
-[DATA VISUALIZATION](#data_visualization)
+[Data Visualization](#data_visualization)
 
 
 ## Project Overview
@@ -120,7 +120,7 @@ WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31'
 THEN 1 ELSE 0 END) = 0
 ```
 
-## DATA VISUALIZATION
+## Data Visualization
 
 
 
